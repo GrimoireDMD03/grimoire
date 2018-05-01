@@ -1,0 +1,23 @@
+C:\Users\Trey\Desktop\School\Programming\Visual Basic\MaxPower\MaxPower\bin\Debug\MaxPower.exe.config
+C:\Users\Trey\Desktop\School\Programming\Visual Basic\MaxPower\MaxPower\bin\Debug\MaxPower.exe
+C:\Users\Trey\Desktop\School\Programming\Visual Basic\MaxPower\MaxPower\bin\Debug\MaxPower.pdb
+C:\Users\Trey\Desktop\School\Programming\Visual Basic\MaxPower\MaxPower\bin\Debug\MaxPower.xml
+C:\Users\Trey\Desktop\School\Programming\Visual Basic\MaxPower\MaxPower\obj\Debug\MaxPower.Form1.resources
+C:\Users\Trey\Desktop\School\Programming\Visual Basic\MaxPower\MaxPower\obj\Debug\MaxPower.Resources.resources
+C:\Users\Trey\Desktop\School\Programming\Visual Basic\MaxPower\MaxPower\obj\Debug\MaxPower.vbproj.GenerateResource.Cache
+C:\Users\Trey\Desktop\School\Programming\Visual Basic\MaxPower\MaxPower\obj\Debug\MaxPower.exe
+C:\Users\Trey\Desktop\School\Programming\Visual Basic\MaxPower\MaxPower\obj\Debug\MaxPower.xml
+C:\Users\Trey\Desktop\School\Programming\Visual Basic\MaxPower\MaxPower\obj\Debug\MaxPower.pdb
+C:\Users\Trey\Desktop\School\Programming\Visual Basic\MaxPower\MaxPower\obj\Debug\MaxPower.vbprojResolveAssemblyReference.cache
+C:\Users\Trey\Desktop\School\Programming\VBNet\MaxPower\MaxPower\bin\Debug\MaxPower.exe.config
+C:\Users\Trey\Desktop\School\Programming\VBNet\MaxPower\MaxPower\bin\Debug\MaxPower.exe
+C:\Users\Trey\Desktop\School\Programming\VBNet\MaxPower\MaxPower\bin\Debug\MaxPower.pdb
+C:\Users\Trey\Desktop\School\Programming\VBNet\MaxPower\MaxPower\bin\Debug\MaxPower.xml
+C:\Users\Trey\Desktop\School\Programming\VBNet\MaxPower\MaxPower\obj\Debug\MaxPower.vbprojResolveAssemblyReference.cache
+C:\Users\Trey\Desktop\School\Programming\VBNet\MaxPower\MaxPower\obj\Debug\MaxPower.Form1.resources
+C:\Users\Trey\Desktop\School\Programming\VBNet\MaxPower\MaxPower\obj\Debug\MaxPower.Resources.resources
+C:\Users\Trey\Desktop\School\Programming\VBNet\MaxPower\MaxPower\obj\Debug\MaxPower.vbproj.GenerateResource.Cache
+C:\Users\Trey\Desktop\School\Programming\VBNet\MaxPower\MaxPower\obj\Debug\MaxPower.vbproj.CoreCompileInputs.cache
+C:\Users\Trey\Desktop\School\Programming\VBNet\MaxPower\MaxPower\obj\Debug\MaxPower.exe
+C:\Users\Trey\Desktop\School\Programming\VBNet\MaxPower\MaxPower\obj\Debug\MaxPower.xml
+C:\Users\Trey\Desktop\School\Programming\VBNet\MaxPower\MaxPower\obj\Debug\MaxPower.pdb
